@@ -10,4 +10,5 @@ else
 	tput setaf 1; echo "opsssss $USER....You are NOT logged as root. :-("
 fi
 tput setaf 9
+echo ""
 exit 0
