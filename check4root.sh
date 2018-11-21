@@ -1,6 +1,8 @@
 #!/bin/bash
 # This Script check if you are logged as root or not
 # Haim Cohen 1.1
+# www.linkedin.com/in/haimc
+
 
 printf "\033c"
 
